@@ -1,0 +1,9 @@
+.an-header {
+  --mat-toolbar-container-background-color: #234d9b;
+
+  position: relative;
+  z-index: 200;
+  display: block;
+  background-color: var(--header-background-color);
+  backdrop-filter: blur(8px);
+}
